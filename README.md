@@ -36,11 +36,11 @@ Hi, I'm Sehar Abrar, a passionate **Senior SQA Engineer** with 4+ years of exper
    - A project for automating Online Booking for traveling consult. 
    - [View Repository] (https://github.com/Seharkhan707/Traveling-Automation-Project.git)
   
-4    **ERP Accounting Automation Project**  
+4.   **ERP Accounting Automation Project**  
    - A project for automating ERP accounting records with Automation
    - [View Repository] (https://github.com/Seharkhan707/Accounting-Automation-Project.git)
-   - 
-5    **Online Banking Automation Project**  
+     
+5.    **Online Banking Automation Project**  
    - A project for automating registtation and other Banking Records with automation
    - [View Repository] (https://github.com/Seharkhan707/Cypress-Automation-Project.git)
 
